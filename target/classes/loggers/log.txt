@@ -1,0 +1,79 @@
+[2023-03-02 23:00:39]:Writing new user details to db username is:sharma:password is:sharma
+[2023-03-02 23:00:39]:user details which are stored in db are:sharma7893dc1e4c3bc5b2ae63520627ea44df7fd789cricket
+
+[2023-03-02 23:00:39]:Sign Up Successfull!!!!!!
+[2023-03-02 23:00:39]:Loggined username is:sharmapaswword is:sharma
+[2023-03-02 23:02:09]:Writing new user details to db username is:kiran:password is:kiran
+[2023-03-02 23:02:09]:user details which are stored in db are:kiran789b1a5b64256e27fa5ae76d62b95209ab3789cricket
+
+[2023-03-02 23:02:09]:Sign Up Successfull!!!!!!
+[2023-03-02 23:02:09]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:02:09]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:02:09]:Database sucesffully created for user;kiran
+[2023-03-02 23:02:09]:One Database creation succesful !!kiran
+[2023-03-02 23:08:46]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:08:46]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:08:46]:Database already exists for your account cant create anew one!!!!!!!kiran
+[2023-03-02 23:08:46]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:11:45]:Security Answer Is Incorrect!!!! PLease login with correct credentails for loggin userLoggined username is:parshawpaswword is:parshaw
+[2023-03-02 23:11:45]:Loggined username is:parshawpaswword is:parshaw
+[2023-03-02 23:13:36]:Writing new user details to db username is:manish:password is:manish
+[2023-03-02 23:13:36]:user details which are stored in db are:manish78959c95189ac895fcc1c6e1c38d067e244789hockey
+
+[2023-03-02 23:13:36]:Sign Up Successfull!!!!!!
+[2023-03-02 23:13:36]:Security Answer Is Incorrect!!!! PLease login with correct credentails for loggin userLoggined username is:manishpaswword is:manish
+[2023-03-02 23:13:36]:Loggined username is:manishpaswword is:manish
+[2023-03-02 23:22:40]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:22:40]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:22:40]:INVALID SYNTAX!!!!QUERY SHOULD END with:SEMICOLUMN;kiran
+[2023-03-02 23:22:40]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:22:40]:INVALID SYNTAX!!!!QUERY SHOULD END with:SEMICOLUMN;kiran
+[2023-03-02 23:22:40]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:22:40]:INVALID SYNTAX!!!!QUERY SHOULD END with:SEMICOLUMN;kiran
+[2023-03-02 23:22:40]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:22:40]:DBANEM IS :demo1
+[2023-03-02 23:22:40]:starting crud opration as db name matches:
+[2023-03-02 23:27:46]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:27:46]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:27:46]:DBANEM IS :demo1
+[2023-03-02 23:27:46]:starting crud opration as db name matches:
+[2023-03-02 23:31:17]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:31:17]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:31:17]:DBANEM IS :demo1
+[2023-03-02 23:31:17]:starting crud opration as db name matches:
+[2023-03-02 23:32:00]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:32:00]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:32:00]:DBANEM IS :demo1
+[2023-03-02 23:32:00]:starting crud opration as db name matches:
+[2023-03-02 23:35:41]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:35:58]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:35:58]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:35:58]:DBANEM IS :demo1
+[2023-03-02 23:35:58]:starting crud opration as db name matches:
+[2023-03-02 23:37:28]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:37:28]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:37:28]:DBANEM IS :demo1
+[2023-03-02 23:37:28]:starting crud opration as db name matches:
+[2023-03-02 23:39:55]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:39:55]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:39:55]:DBANEM IS :demo1
+[2023-03-02 23:39:55]:starting crud opration as db name matches:
+[2023-03-02 23:42:33]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:42:33]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:42:33]:DBANEM IS :demo1
+[2023-03-02 23:42:33]:starting crud opration as db name matches:
+[2023-03-02 23:44:07]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:44:07]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:44:07]:DBANEM IS :demo1
+[2023-03-02 23:44:07]:starting crud opration as db name matches:
+[2023-03-02 23:44:46]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:44:46]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:44:46]:INVALID SYNTAX!!!!QUERY SHOULD END with:SEMICOLUMN;kiran
+[2023-03-02 23:44:46]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:44:46]:DBANEM IS :demo1
+[2023-03-02 23:44:46]:starting crud opration as db name matches:
+[2023-03-02 23:45:18]:Loggined username is:kiranpaswword is:kiran
+[2023-03-02 23:45:18]:Start writing the SQL queries with either create db or use db commandkiran
+[2023-03-02 23:45:18]:DBANEM IS :demo1
+[2023-03-02 23:45:18]:starting crud opration as db name matches:
+[2023-03-02 23:48:57]:Security Answer Is Incorrect!!!! PLease login with correct credentails for loggin userLoggined username is:kiranpaswword is:kiran

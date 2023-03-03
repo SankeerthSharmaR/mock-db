@@ -1,0 +1,7 @@
+[2023-02-27 21:58:16]:Loggined username is:giripaswword is:giri
+[2023-02-27 22:00:02]:Loggined username is:giripaswword is:giri
+[2023-02-27 22:00:02]:Start writing the SQL queries with either create db or use db commandgiri
+[2023-02-27 22:00:02]:Database already exists for your account cant create anew one!!!!!!!giri
+[2023-02-27 22:00:02]:Start writing the SQL queries with either create db or use db commandgiri
+[2023-02-27 22:00:02]:DBANEM IS :demo1
+[2023-02-27 22:00:02]:starting crud opration as db name matches:
